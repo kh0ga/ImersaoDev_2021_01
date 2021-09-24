@@ -1,7 +1,7 @@
-# 1° dia Imersão Dev Alura
+# Aula 1 - Imersão Dev Alura
 ## VARIÁVEIS, OPERAÇÕES E MÉDIA
 
-<p> Primeiro dia do evento Imersão Dev da Alura. Evento gratuito para quem busca dar seus primeiros passos em programação com foco em javascript </p>
+<p> 1° aula do evento Imersão Dev da Alura. Evento gratuito para quem busca dar seus primeiros passos em programação com foco em javascript </p>
 <p> Nos primeiro dia nos foi aprensentado os conceitos de variaveis, simples operações e como utilizar o console.log() </p>
 
 ### DESAFIOS
