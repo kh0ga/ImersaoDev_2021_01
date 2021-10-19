@@ -9,7 +9,7 @@ Ao final da aula os docentes propuseram 3 desafios:
 - Dependendo da nota, mostrar se a aluna ou aluno foi aprovada(o) ou não
 - Alterar o fundo da tela da maneira que achar mais legal
 - Imprimir na própria página o resultado, ao invés do console
-- Criar um conversor de temperaturas entre farenheit e celcius
+- Criar um conversor de temperaturas entre farenheit e celsius
 - Colocar a conta inteira da média em apenas uma linha
 
 OBS: Consegui concluir todos os desafios e também criei uma página menu que leva para a página de cada desafio. Calculadora de médias escolas e Conversor de temperaturas
